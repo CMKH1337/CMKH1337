@@ -1,16 +1,6 @@
 ![image](lmae.png)
 <div align="center">
 
-<div align="center">
-
-<a href="https://github.com/CMKH1337">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=一步一跪一磕头 祝绫华老婆天天开心  
-一步一跪一磕头 祝绫华老婆万事顺利  
-一步一跪一磕头 祝绫华老婆越来越美  
-一步一跪一磕头 祝绫华老婆永远不死  
-一步一跪一磕头 祝绫华老婆平平安安's+GitHub;Building+something+interesting;Code+%7C+Create+%7C+Repeat" />
-</a>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:FFB6C1&height=320&section=header&text=%E4%B8%80%E6%AD%A5%E4%B8%80%E8%B7%AA%E4%B8%80%E7%A3%95%E5%A4%B4%20%E7%A5%9D%E8%95%BE%E7%B1%B3%E5%9F%83%E5%B0%94%E8%80%81%E5%A9%86%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83%0A%E4%B8%80%E6%AD%A5%E4%B8%80%E8%B7%AA%E4%B8%80%E7%A3%95%E5%A4%B4%20%E7%A5%9D%E8%95%BE%E7%B1%B3%E5%9F%83%E5%B0%94%E8%80%81%E5%A9%86%E4%B8%87%E4%BA%8B%E9%A1%BA%E5%88%A9%0A%E4%B8%80%E6%AD%A5%E4%B8%80%E8%B7%AA%E4%B8%80%E7%A3%95%E5%A4%B4%20%E7%A5%9D%E8%95%BE%E7%B1%B3%E5%9F%83%E5%B0%94%E8%80%81%E5%A9%86%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%BE%8E%0A%E4%B8%80%E6%AD%A5%E4%B8%80%E8%B7%AA%E4%B8%80%E7%A3%95%E5%A4%B4%20%E7%A5%9D%E8%95%BE%E7%B1%B3%E5%9F%83%E5%B0%94%E8%80%81%E5%A9%86%E6%B0%B8%E8%BF%9C%E4%B8%8D%E6%AD%BB%0A%E4%B8%80%E6%AD%A5%E4%B8%80%E8%B7%AA%E4%B8%80%E7%A3%95%E5%A4%B4%20%E7%A5%9D%E8%95%BE%E7%B1%B3%E5%9F%83%E5%B0%94%E8%80%81%E5%A9%86%E5%B9%B3%E5%B9%B3%E5%AE%89%E5%AE%89&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 </div>
