@@ -19,5 +19,4 @@
 />
 - I’m an amateur of coding
 - I’m a secondary school student
-- I love play AI rp especially with opus4-6
 - 我喜欢你跟我结婚
