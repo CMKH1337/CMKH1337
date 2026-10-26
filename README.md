@@ -1,4 +1,4 @@
-[![HHapi](https://img.shields.io/badge/MYsite-hhapi.xyz-b67fdd?style=for-the-badge)](https://hhapi.xyz/sign-up?aff=j6U0)
+[![HHapi](https://img.shields.io/badge/Sponsor-hhapi.xyz-b67fdd?style=for-the-badge)](https://hhapi.xyz/sign-up?aff=j6U0)
 [![Community](https://img.shields.io/badge/QQ群-917932291-b67fdd?style=for-the-badge&logo=tencentqq)]()
 
 
