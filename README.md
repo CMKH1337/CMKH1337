@@ -20,3 +20,6 @@
 - I’m an amateur of coding
 - I’m a secondary school student
 - 我喜欢你跟我结婚
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CMKH1337&show_icons=true&theme=tokyonight)
